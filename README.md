@@ -1,7 +1,7 @@
 # Default_ML
 
 This notebook was created as part of a Machine Learning academic course.
-The idea is to use the dataset UCI_Credit_Card to improve basic skills of data cleaning, data analysis, data visualization and machine learning. 
+The idea is to use the dataset UCI_Credit_Card to use skills we learned in class: data cleaning, data analysis, feature engineering, data visualization and machine learning. 
 Any feedback is welcome.
 
  The goal is to predict the default of clients in a bank.
